@@ -25,9 +25,10 @@ This project demonstrates core React concepts like components, state management,
 ---
 
 📂 Project Structure
-To-Do-React/
+To-Do-React
+
 │── src/
-│   ├── components/
+│  ├── components/
 │   ├── App.js
 │   ├── index.js
 │── public/
